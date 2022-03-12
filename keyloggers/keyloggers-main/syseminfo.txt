@@ -1,0 +1,5 @@
+Public IP Address: ***.***.***.31Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: DESKTOP-********
+Private IP Address: ***.***.***.***
